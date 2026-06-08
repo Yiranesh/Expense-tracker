@@ -10,6 +10,4 @@ A terminal app I built to track daily expenses without overcomplicating it.
 - Saves everything to a JSON file so your data doesn't disappear
 
 ## How to run
-
-```bash
 python expense_tracker.py
